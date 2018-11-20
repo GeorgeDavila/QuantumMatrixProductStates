@@ -9,4 +9,6 @@ All code written from scratch solely and entirely by George Davila with guidance
 
 Some data samples included as text files for introductory purposes. Made to be easy to insert your own data, any and all data import is specified at beginning of each program, simply rewrite these lined according to your preferred data import method. 
 
+PCV1 = Porcine CircoVirus (variant) 1, a virus with a small genome used in these studies. Base pairs translated as A->0 C->1 G->2 T->3.
+
 Those working in the field should be able to tell whats going on in each file from the title and comments. Others probably not, but probably not much non-academic use at the moment anyway.
