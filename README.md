@@ -3,7 +3,7 @@ Quantum Tensor Networks and Matrix Product States implemented in python (2.7)
 
 Data samples used included in repository. Intended as reference for implementation of quantum tensor networks particularly matrix product states in python. 
 
-Includes implementations of some relevant numerical methods and processes for building other quantum tensor network algorithms.
+Includes implementations of some relevant numerical methods and processes for building other quantum tensor network algorithms. Here I focused on manipulating raw data, effectively treating a vector-form list of data as a quantum state vector would be treated when employing quantum matrix product states. So just put in your quantum state vector as appropriate. And of course terms typically associated with quantum physics here, when associated with the raw data applications here, are mathematical shorthand. 
 
 All code written from scratch solely and entirely by George Davila with guidance from Prof. Eduardo Mucciolo on Matrix Product States.
 
